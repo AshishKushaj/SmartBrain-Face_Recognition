@@ -34,9 +34,15 @@ function Search(){
                 />
 
                 <button className="br2 grow pointer w-20 button">Search</button>
-                
-               
+
             </div> 
+
+        
+            <Space
+                link={link}
+            /> 
+        
+        
         </div>
     );
 }

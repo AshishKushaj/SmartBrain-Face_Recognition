@@ -1,9 +1,8 @@
 import React from "react";
 import {useState} from "react";
 
-function Space(){
+function Space({link}){
 
-const link=useState("");
 
     return(
         <div className="tc mt2">
